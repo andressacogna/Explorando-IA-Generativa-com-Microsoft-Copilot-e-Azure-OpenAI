@@ -1,0 +1,1 @@
+# Explorando-IA-Generativa-com-Microsoft-Copilot-e-Azure-OpenAI
